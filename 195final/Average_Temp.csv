@@ -1,0 +1,183 @@
+CITY,STATE,TEMP (F)
+Flagstaff,AZ,46.3
+Asheville,NC,55.9
+Macon,GA,64.6
+Paducah,KY,57.9
+Augusta,GA,64
+Savannah,GA,66.8
+Huntsville,AL,62.1
+Huntington,WV,55.7
+Greenville,SC,61.4
+Beckley,WV,51.9
+Wichita,KS,57
+Jackson,MS,64.6
+Binghamton,NY,46.3
+Orlando,FL,72.8
+Daytona Beach,FL,70.9
+Fort Myers,FL,75.1
+Key West,FL,77.8
+Miami,FL,77.2
+Tampa,FL,73.4
+New Orleans,LA,69.7
+Houston,TX,70.3
+Brownsville,TX,74.5
+San Antonio,TX,69.5
+Corpus Christi,TX,72.2
+Raleigh,NC,60.8
+Greensboro,NC,59.2
+Elkins,WV,50.3
+Norfolk,VA,60.2
+Philadelphia,PA,55.9
+Richmond,VA,58.9
+Roanoke,VA,57
+Washington (Reagan National),VA,58.2
+Wilmington,NC,64
+Wilmington,DE,54.9
+Charleston,WV,55.7
+Atlanta,GA,62.6
+Birmingham,AL,63.3
+Johnson City,TN,55.7
+Charlotte,NC,59.9
+Chattanooga,TN,60.9
+Columbia,SC,64
+Jacksonville,FL,68.6
+Knoxville,TN,59.2
+Memphis,TN,63.1
+Mobile,AL,67.3
+Montgomery,AL,65.1
+Nashville,TN,59.4
+Shreveport,LA,65.7
+Austin,TX,69.4
+Dallas,TX,67.2
+Abilene,TX,64.6
+Little Rock,AR,62.7
+Fort Smith,AR,61.7
+Wichita Falls,TX,63.4
+Oklahoma City,OK,61.5
+Tulsa,OK,60.8
+Baton Rouge,LA,68.5
+Dodge City,KS,55.4
+St Louis,MO,57.1
+Springfield,MO,56.3
+Topeka,KS,55.1
+Bangor,ME,44.3
+Caribou,ME,39.9
+New York (La Guardia),NY,55.5
+Buffalo,NY,48.4
+Albany,NY,48.3
+Allentown,PA,51.2
+Boston,MA,51.5
+Hartford,CT,50.6
+Burlington,VT,46
+Concord,NH,46.4
+Harrisburg,PA,53.2
+Portland,ME,46.5
+Providence,RI,51.6
+Syracuse,NY,48.3
+Wilkes-Barre,PA,49.5
+Williamsport,PA,50.5
+Cleveland,OH,51.5
+Columbus,OH,53.5
+Fort Wayne,IN,50.5
+Madison,WI,46.5
+Milwaukee,WI,47.9
+Muskegon,MI,48.6
+Peoria,IL,51.9
+Sault Ste. Marie,MI,41.8
+South Bend,IN,49.9
+Youngstown,OH,49.1
+Erie,PA,49.9
+Akron,OH,49.9
+Green Bay,WI,44.3
+Duluth,MN,39.7
+Fargo,ND,42.4
+Grand Forks,ND,40
+International Falls,MN,37.5
+La Crosse,WI,47.4
+St Paul,MN,46.3
+Moline,IL,50.8
+Rochester,MN,45.5
+Aberdeen,SD,43.1
+Des Moines,IA,50.9
+Grand Island,NE,50.9
+Norfolk,NE,49.3
+Omaha,NE,51.2
+Sioux City,IA,48.6
+Sioux Falls,SD,45.8
+Del Rio,TX,70.5
+Roswell,NM,60.9
+Midland,TX,63.9
+Lubbock,TX,60.7
+El Paso,TX,64.6
+Amarillo,TX,57.4
+Albuquerque,NM,57.2
+Alamosa,CO,41.6
+Goodland,KS,51.4
+Grand Junction,CO,52.7
+Ely,NV,45
+Tucson,AZ,69.5
+Las Vegas,NV,69.4
+Los Angeles,CA,62.6
+Phoenix,AZ,75.1
+Carson City,NV,53.8
+San Diego,CA,63.6
+Sacramento,CA,61.1
+San Francisco,CA,58.2
+Bismarck,ND,43
+Minot,ND,42.1
+Cheyenne,WY,46.5
+Lander,WY,45.1
+North Platte,NE,48.8
+Pierre,SD,47.4
+Scottsbluff,NE,48.9
+Sheridan,WY,45.2
+Billings,MT,48.2
+Casper,WY,45.4
+Rapid City,SD,47.1
+Elko,NV,46.7
+Salt Lake City,UT,52.8
+Boise,ID,52.5
+Great Falls,MT,44.6
+Helena,MT,45.5
+Missoula,MT,46
+Pendleton,OR,52.3
+Pocatallo,ID,46.4
+Spokane,WA,48.2
+Eureka,CA,52.9
+Eugene,OR,52.5
+Medford,OR,55.6
+Olympia,WA,50.5
+Portland,OR,54.4
+Salem,OR,53
+Seattle,WA,52.6
+Yakima,WA,49.7
+Colorado Springs,CO,49
+Pueblo,CO,52
+Fresno,CA,64.4
+Baltimore,MD,55.1
+Cape Hatteras,NC,62.6
+Atlantic City,NJ,54.5
+Washington (Dulles),VA,55.3
+Tallahassee,FL,67.7
+Cincinnati,KY,54.4
+Evansville,IN,56.4
+Indianapolis,IN,53.2
+Lexington,KY,55.6
+Springfield,IL,53.1
+Columbus,GA,65.7
+Glasgow,MT,43.3
+Williston,ND,41.6
+Astoria,OR,51.3
+Bridgeport,CT,52.5
+Montpelier,VT,43.3
+New York (Central Park),NY,55
+Worchester,MA,47.9
+New York (JFK),NY,54.5
+Rockford,IL,49.3
+Pittsburgh,PA,51.4
+Toledo,OH,50.3
+Chicago,IL,49.9
+Detroit,MI,50.4
+Grand Rapids,MI,49.1
+Dubuque,IA,47.3
+Waterloo,IA,47.9

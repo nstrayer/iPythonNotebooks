@@ -1,0 +1,15 @@
+Source/Other Notes
+
+Grab any and all data which may relate to happiness. Post sources here. 
+
+- Average Temperature Data: NOAA - https://www.ncdc.noaa.gov/sotc/national/2013/12/supplemental/page-1 
+- Average Rainfall: NOAA - https://www.ncdc.noaa.gov/sotc/national/2013/12/supplemental/page-2/
+- Political Affiliation of states: http://www.fec.gov/pubrec/fe2012/federalelections2012.shtml
+- Religious Affiliation: http://www.theatlanticcities.com/neighborhoods/2013/04/americas-most-and-least-religious-metro-areas/5180/ 
+- Dropouts: NCES - http://nces.ed.gov/ccd/drpcompstatelvl.asp 
+- Poverty/Income - http://www.census.gov/did/www/saipe/data/statecounty/data/2008.html 
+- Area - http://www.enchantedlearning.com/usa/states/area.shtml
+- Eagle population - http://www.fws.gov/home/feature/2007/bald_eagle_pop_map_final.pdf 
+- Human Population - http://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_population
+- Obesity - http://www.cdc.gov/obesity/data/adult.html 
+- State Spending - http://kff.org/other/state-indicator/per-capita-state-spending/ 
